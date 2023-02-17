@@ -362,7 +362,7 @@ img {
 }
 
 .brand-logo_name {
-    color: #fff;
+    color: rgb(0, 0, 0);
     text-transform: uppercase;
     font-family: Oswald,sans-serif;
     font-weight: 500;
@@ -1074,7 +1074,7 @@ img {
 
 .schedule {
     color: #fff;
-    background: url(../Img/carrousel1.jpg.jpg) center/cover no-repeat;
+    background: url(../Img/carrousel1.jpg) center/cover no-repeat;
     position: relative
 }
 
