@@ -102,7 +102,7 @@ html.fixed {
 
 body {
     color: #bbb;
-    background: #202020;
+    background: #e2e0e0;
     font-size: 16px;
     line-height: 1.7;
     font-family: Roboto,sans-serif
@@ -127,7 +127,7 @@ h1,h2,h3,h4,h5,h6 {
     font-family: Oswald,sans-serif;
     font-weight: 500;
     text-transform: uppercase;
-    color: #fff
+    color: rgb(0, 0, 0)
 }
 
 h1 {
@@ -437,7 +437,7 @@ img {
 }
 
 .alert_popup {
-    background: #fff;
+    background: rgb(0, 0, 0);
     min-width: 280px;
     max-width: 360px;
     display: -webkit-box!important;
@@ -474,7 +474,7 @@ img {
     width: 100%;
     left: 0;
     z-index: 10000;
-    background: #202020;
+    background: #ffffff;
     will-change: transform;
     -webkit-transition: -webkit-transform .5s ease-in-out;
     transition: transform .5s ease-in-out;
@@ -601,7 +601,7 @@ img {
     font-weight: 500;
     font-size: 16px;
     text-transform: uppercase;
-    color: #fff
+    color: rgb(0, 0, 0)
 }
 
 .header_nav-list_item.dropdown .list-item,.header_nav-list_item:not(.header_nav-list_item.dropdown) {
@@ -794,7 +794,7 @@ img {
 }
 
 .hero_content-tel {
-    color: #fff
+    color: rgb(2, 2, 2)
 }
 
 .hero_content-tel:hover {
@@ -849,7 +849,7 @@ img {
     }
 
     .hero_slider-control {
-        color: #fff;
+        color: rgb(0, 0, 0);
         -webkit-transition: color .5s ease-in-out;
         -o-transition: color .5s ease-in-out;
         transition: color .5s ease-in-out;
@@ -1248,7 +1248,7 @@ img {
     text-transform: uppercase;
     font-family: Oswald,sans-serif;
     font-weight: 500;
-    color: #fff;
+    color: rgb(0, 0, 0);
     margin-bottom: 10px
 }
 
@@ -1307,7 +1307,7 @@ img {
 }
 
 .footer_contacts-tel {
-    color: #fff;
+    color: rgb(0, 0, 0);
     margin-bottom: 10px;
     width: -webkit-fit-content;
     width: -moz-fit-content;
@@ -1369,7 +1369,7 @@ img {
 }
 
 .footer_contacts-socials .list-item .link {
-    color: #fff;
+    color: rgb(0, 0, 0);
     font-size: 22px
 }
 
@@ -1390,7 +1390,7 @@ img {
 }
 
 .footer_newsletter-form .field:focus,.footer_newsletter-form .field:hover {
-    border-color: #fff
+    border-color: rgb(0, 0, 0)
 }
 
 .footer_newsletter-form .btn,.footer_newsletter-form .field {
@@ -1398,7 +1398,7 @@ img {
 }
 
 .footer_copyright {
-    background: #2c2c2c;
+    background: #aaaaaa;
     margin: 80px -20px 0;
     text-align: center;
     height: 80px;
@@ -1536,7 +1536,7 @@ img {
     background-blend-mode: overlay;
     padding: 30px;
     max-width: 650px;
-    color: #fff
+    color: rgb(0, 0, 0)
 }
 
 .promo_popup-title {
