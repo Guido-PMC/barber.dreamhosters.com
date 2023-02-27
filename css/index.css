@@ -826,8 +826,8 @@ img {
     height: 50%;
     width: 100%;
     z-index: 1;
-    background: -o-linear-gradient(271.87deg,rgba(209, 209, 209, 0) 37.89%,#FFFFFF 82.56%);
-    background: linear-gradient(178.13deg,rgba(209,209,209,0) 37.89%,#FFFFFF 82.56%)
+    background: -o-linear-gradient(271.87deg,rgba(32,32,32,0) 37.89%,#FFFFFF 82.56%);
+    background: linear-gradient(178.13deg,rgba(32,32,32,0) 37.89%,#FFFFFF 82.56%)
 }
 
 @media screen and (min-width:767.98px) {
@@ -1085,8 +1085,8 @@ img {
     width: 100%;
     height: 100%;
     z-index: 1;
-    background: -o-radial-gradient(50% 50%,50% 571.32%,rgba(201, 62, 62, 0) 0,#FFFFFF 100%);
-    background: radial-gradient(50% 571.32% at 50% 50%,rgba(91, 193, 28, 0) 0,#FFFFFF 100%)
+    background: -o-radial-gradient(50% 50%,50% 571.32%,rgba(32,32,32,0) 0,#202020 100%);
+    background: radial-gradient(50% 571.32% at 50% 50%,rgba(32,32,32,0) 0,#202020 100%)
 }
 
 .schedule_container {
