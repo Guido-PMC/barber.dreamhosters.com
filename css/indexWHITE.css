@@ -102,7 +102,7 @@ html.fixed {
 
 body {
     color: #bbb;
-    background: #202020;
+    background: #e2e0e0;
     font-size: 16px;
     line-height: 1.7;
     font-family: Roboto,sans-serif
@@ -127,7 +127,7 @@ h1,h2,h3,h4,h5,h6 {
     font-family: Oswald,sans-serif;
     font-weight: 500;
     text-transform: uppercase;
-    color: #fff
+    color: rgb(0, 0, 0)
 }
 
 h1 {
@@ -209,10 +209,10 @@ img {
 
 .theme-element {
     text-align: center;
-    background: #eb1616;
+    background: #E3DAC9;
     color: #fff;
     text-transform: uppercase;
-    border: 2px solid #eb1616;
+    border: 2px solid #E3DAC9;
     font-family: Oswald,sans-serif;
     font-weight: 500;
     font-size: 14px;
@@ -225,7 +225,7 @@ img {
 }
 
 .theme-element.btn:hover {
-    color: #eb1616
+    color: #E3DAC9
 }
 
 .theme-element.btn--revert {
@@ -233,7 +233,7 @@ img {
 }
 
 .theme-element.btn--revert.current,.theme-element.btn--revert:focus,.theme-element.btn--revert:hover {
-    background: #eb1616;
+    background: #E3DAC9;
     color: #fff
 }
 
@@ -254,7 +254,7 @@ img {
 }
 
 .field.error {
-    border-color: #eb1616
+    border-color: #E3DAC9
 }
 
 .field--corner {
@@ -321,7 +321,7 @@ img {
 }
 
 .highlight {
-    color: #eb1616
+    color: #E3DAC9
 }
 
 .link--underline {
@@ -334,7 +334,7 @@ img {
     position: absolute;
     width: 0;
     height: 1px;
-    background: #eb1616;
+    background: #E3DAC9;
     bottom: -2px;
     left: 0;
     -webkit-transition: width .5s ease-in-out;
@@ -357,12 +357,12 @@ img {
 }
 
 .brand-logo_icon {
-    color: #eb1616;
+    color: #E3DAC9;
     margin-right: 7px
 }
 
 .brand-logo_name {
-    color: #fff;
+    color: rgb(0, 0, 0);
     text-transform: uppercase;
     font-family: Oswald,sans-serif;
     font-weight: 500;
@@ -437,7 +437,7 @@ img {
 }
 
 .alert_popup {
-    background: #fff;
+    background: rgb(0, 0, 0);
     min-width: 280px;
     max-width: 360px;
     display: -webkit-box!important;
@@ -460,11 +460,11 @@ img {
 }
 
 .alert_popup-close:focus,.alert_popup-close:hover {
-    color: #eb1616
+    color: #E3DAC9
 }
 
 .alert_popup-title {
-    color: #eb1616;
+    color: #E3DAC9;
     margin-bottom: 10px
 }
 
@@ -474,7 +474,7 @@ img {
     width: 100%;
     left: 0;
     z-index: 10000;
-    background: #202020;
+    background: #ffffff;
     will-change: transform;
     -webkit-transition: -webkit-transform .5s ease-in-out;
     transition: transform .5s ease-in-out;
@@ -539,7 +539,7 @@ img {
 }
 
 .header_trigger.active .line {
-    background: #eb1616
+    background: #E3DAC9
 }
 
 .header_trigger.active .line:nth-child(2) {
@@ -593,7 +593,7 @@ img {
 }
 
 .header_nav-list .dropdown-toggle.active,.header_nav-list .nav-item.active {
-    background: #eb1616
+    background: #E3DAC9
 }
 
 .header_nav-list_item {
@@ -601,7 +601,7 @@ img {
     font-weight: 500;
     font-size: 16px;
     text-transform: uppercase;
-    color: #fff
+    color: rgb(0, 0, 0)
 }
 
 .header_nav-list_item.dropdown .list-item,.header_nav-list_item:not(.header_nav-list_item.dropdown) {
@@ -696,7 +696,7 @@ img {
     }
 
     .header_nav-list .dropdown-toggle.active:before,.header_nav-list .dropdown-toggle:hover:before,.header_nav-list .nav-item.active:before,.header_nav-list .nav-item:hover:before {
-        background: #eb1616
+        background: #E3DAC9
     }
 
     .header_nav-list_item {
@@ -740,7 +740,7 @@ img {
     }
 
     .header_nav-list .dropdown-menu .nav-item.active,.header_nav-list .dropdown-menu .nav-item:hover {
-        background: #eb1616
+        background: #E3DAC9
     }
 
     .header_nav-list .dropdown-menu .nav-item.active:before,.header_nav-list .dropdown-menu .nav-item:hover:before {
@@ -781,7 +781,7 @@ img {
 }
 
 .hero_slider-pagination .swiper-pagination-progressbar-fill {
-    background: #eb1616
+    background: #E3DAC9
 }
 
 .hero_content {
@@ -794,11 +794,11 @@ img {
 }
 
 .hero_content-tel {
-    color: #fff
+    color: rgb(2, 2, 2)
 }
 
 .hero_content-tel:hover {
-    color: #eb1616
+    color: #E3DAC9
 }
 
 .hero_content-tel .icon {
@@ -849,7 +849,7 @@ img {
     }
 
     .hero_slider-control {
-        color: #fff;
+        color: rgb(0, 0, 0);
         -webkit-transition: color .5s ease-in-out;
         -o-transition: color .5s ease-in-out;
         transition: color .5s ease-in-out;
@@ -858,7 +858,7 @@ img {
     }
 
     .hero_slider-control:focus,.hero_slider-control:hover {
-        color: #eb1616
+        color: #E3DAC9
     }
 
     .hero_content-text {
@@ -1074,7 +1074,7 @@ img {
 
 .schedule {
     color: #fff;
-    background: url(../img/placeholder.jpg) center/cover no-repeat;
+    background: url(../Img/carrousel1.jpg) center/cover no-repeat;
     position: relative
 }
 
@@ -1248,7 +1248,7 @@ img {
     text-transform: uppercase;
     font-family: Oswald,sans-serif;
     font-weight: 500;
-    color: #fff;
+    color: rgb(0, 0, 0);
     margin-bottom: 10px
 }
 
@@ -1307,7 +1307,7 @@ img {
 }
 
 .footer_contacts-tel {
-    color: #fff;
+    color: rgb(0, 0, 0);
     margin-bottom: 10px;
     width: -webkit-fit-content;
     width: -moz-fit-content;
@@ -1315,7 +1315,7 @@ img {
 }
 
 .footer_contacts-tel:hover {
-    color: #eb1616
+    color: #E3DAC9
 }
 
 .footer_contacts-tel .icon {
@@ -1369,12 +1369,12 @@ img {
 }
 
 .footer_contacts-socials .list-item .link {
-    color: #fff;
+    color: rgb(0, 0, 0);
     font-size: 22px
 }
 
 .footer_contacts-socials .list-item .link:focus,.footer_contacts-socials .list-item .link:hover {
-    color: #eb1616
+    color: #E3DAC9
 }
 
 .footer_newsletter-text {
@@ -1390,7 +1390,7 @@ img {
 }
 
 .footer_newsletter-form .field:focus,.footer_newsletter-form .field:hover {
-    border-color: #fff
+    border-color: rgb(0, 0, 0)
 }
 
 .footer_newsletter-form .btn,.footer_newsletter-form .field {
@@ -1398,7 +1398,7 @@ img {
 }
 
 .footer_copyright {
-    background: #2c2c2c;
+    background: #aaaaaa;
     margin: 80px -20px 0;
     text-align: center;
     height: 80px;
@@ -1532,11 +1532,11 @@ img {
 }
 
 .promo_popup {
-    background: url(../img/placeholder.jpg) center/cover no-repeat,rgba(32,32,32,.7);
+    background: url(../Img/carrousel1.jpg.jpg) center/cover no-repeat,rgba(32,32,32,.7);
     background-blend-mode: overlay;
     padding: 30px;
     max-width: 650px;
-    color: #fff
+    color: rgb(0, 0, 0)
 }
 
 .promo_popup-title {
@@ -1555,7 +1555,7 @@ img {
 }
 
 .promo_popup-close:focus,.promo_popup-close:hover {
-    color: #eb1616
+    color: #E3DAC9
 }
 
 .promo_popup .main {
