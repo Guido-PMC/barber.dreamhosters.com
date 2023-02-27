@@ -193,7 +193,7 @@ img {
     text-transform: uppercase;
     font-family: Oswald,sans-serif;
     font-weight: 600;
-    color: #2c2c2c;
+    color: #c8c8c8;
     font-size: 80px;
     line-height: 1;
     position: absolute;
@@ -210,7 +210,7 @@ img {
 .theme-element {
     text-align: center;
     background: #DDBDBB;
-    color: #fff;
+    color: #000000;
     text-transform: uppercase;
     border: 2px solid #DDBDBB;
     font-family: Oswald,sans-serif;
@@ -362,7 +362,7 @@ img {
 }
 
 .brand-logo_name {
-    color: #fff;
+    color: #000000;
     text-transform: uppercase;
     font-family: Oswald,sans-serif;
     font-weight: 500;
@@ -601,7 +601,7 @@ img {
     font-weight: 500;
     font-size: 16px;
     text-transform: uppercase;
-    color: #fff
+    color: #000000
 }
 
 .header_nav-list_item.dropdown .list-item,.header_nav-list_item:not(.header_nav-list_item.dropdown) {
@@ -1248,7 +1248,7 @@ img {
     text-transform: uppercase;
     font-family: Oswald,sans-serif;
     font-weight: 500;
-    color: #fff;
+    color: #000000;
     margin-bottom: 10px
 }
 
@@ -1369,7 +1369,7 @@ img {
 }
 
 .footer_contacts-socials .list-item .link {
-    color: #fff;
+    color: #000000;
     font-size: 22px
 }
 
