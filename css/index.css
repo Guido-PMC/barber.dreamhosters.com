@@ -102,7 +102,7 @@ html.fixed {
 
 body {
     color: #bbb;
-    background: #202020;
+    background: #FFFFFF;
     font-size: 16px;
     line-height: 1.7;
     font-family: Roboto,sans-serif
@@ -522,7 +522,7 @@ img {
 .header_trigger .line {
     height: 2px;
     width: 100%;
-    background: #fff;
+    background: rgb(0, 0, 0);
     display: block;
     -webkit-transition: .3s ease-in-out;
     -o-transition: .3s ease-in-out;
@@ -794,7 +794,7 @@ img {
 }
 
 .hero_content-tel {
-    color: #fff
+    color: rgb(0, 0, 0)
 }
 
 .hero_content-tel:hover {
@@ -849,7 +849,7 @@ img {
     }
 
     .hero_slider-control {
-        color: #fff;
+        color: rgb(0, 0, 0);
         -webkit-transition: color .5s ease-in-out;
         -o-transition: color .5s ease-in-out;
         transition: color .5s ease-in-out;
@@ -1073,7 +1073,7 @@ img {
 }
 
 .schedule {
-    color: #fff;
+    color: rgb(0, 0, 0);
     background: url(../Img/carrousel1.jpg) center/cover no-repeat;
     position: relative
 }
