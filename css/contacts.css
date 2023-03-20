@@ -192,14 +192,13 @@ img {
     text-transform: uppercase;
     font-family: Oswald,sans-serif;
     font-weight: 600;
-    color: #2c2c2c;
+    color: #c8c8c8;
     font-size: 80px;
     line-height: 1;
     position: absolute;
     z-index: -1;
     visibility: hidden
 }
-
 .container {
     padding: 0 1.25rem;
     margin: 0;
