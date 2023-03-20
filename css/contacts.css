@@ -102,12 +102,11 @@ html.fixed {
 
 body {
     color: #bbb;
-    background: #202020;
+    background: #ffffff;
     font-size: 16px;
     line-height: 1.7;
     font-family: Roboto,sans-serif
 }
-
 body.swal2-shown {
     padding: 0
 }
@@ -694,7 +693,7 @@ img {
     .header_nav-list .dropdown-toggle.active,.header_nav-list .dropdown-toggle:hover,.header_nav-list .nav-item.active,.header_nav-list .nav-item:hover {
         background: 0 0
     }
-    
+
     .header_nav-list .dropdown-toggle.active:before,.header_nav-list .dropdown-toggle:hover:before,.header_nav-list .nav-item.active:before,.header_nav-list .nav-item:hover:before {
         background: #DDBDBB
     }
