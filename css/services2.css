@@ -740,7 +740,7 @@ img {
     }
 
     .header_nav-list .dropdown-menu .nav-item.active,.header_nav-list .dropdown-menu .nav-item:hover {
-        background: #FFFFFF
+        background: #000000
     }
 
     .header_nav-list .dropdown-menu .nav-item.active:before,.header_nav-list .dropdown-menu .nav-item:hover:before {
