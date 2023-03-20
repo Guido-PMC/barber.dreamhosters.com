@@ -736,7 +736,7 @@ img {
         -webkit-transition: background-color .3s ease-in-out;
         -o-transition: background-color .3s ease-in-out;
         transition: background-color .3s ease-in-out;
-        background: #2c2c2c
+        background: #FFd7d3
     }
 
     .header_nav-list .dropdown-menu .nav-item.active,.header_nav-list .dropdown-menu .nav-item:hover {
