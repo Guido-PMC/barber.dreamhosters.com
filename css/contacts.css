@@ -361,7 +361,7 @@ img {
 }
 
 .brand-logo_name {
-    color: #fff;
+    color: #000000;
     text-transform: uppercase;
     font-family: Oswald,sans-serif;
     font-weight: 500;
@@ -600,7 +600,7 @@ img {
     font-weight: 500;
     font-size: 16px;
     text-transform: uppercase;
-    color: #fff
+    color: #000000
 }
 
 .header_nav-list_item.dropdown .list-item,.header_nav-list_item:not(.header_nav-list_item.dropdown) {
