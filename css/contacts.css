@@ -209,10 +209,10 @@ img {
 
 .theme-element {
     text-align: center;
-    background: #eb1616;
-    color: #fff;
+    background: #DDBDBB;
+    color: #000000;
     text-transform: uppercase;
-    border: 2px solid #eb1616;
+    border: 2px solid #DDBDBB;
     font-family: Oswald,sans-serif;
     font-weight: 500;
     font-size: 14px;
@@ -225,7 +225,7 @@ img {
 }
 
 .theme-element.btn:hover {
-    color: #eb1616
+    color: #DDBDBB
 }
 
 .theme-element.btn--revert {
@@ -233,7 +233,7 @@ img {
 }
 
 .theme-element.btn--revert.current,.theme-element.btn--revert:focus,.theme-element.btn--revert:hover {
-    background: #eb1616;
+    background: #DDBDBB;
     color: #fff
 }
 
@@ -254,7 +254,7 @@ img {
 }
 
 .field.error {
-    border-color: #eb1616
+    border-color: #DDBDBB
 }
 
 .field--corner {
@@ -321,7 +321,7 @@ img {
 }
 
 .highlight {
-    color: #eb1616
+    color: #DDBDBB
 }
 
 .link--underline {
@@ -334,7 +334,7 @@ img {
     position: absolute;
     width: 0;
     height: 1px;
-    background: #eb1616;
+    background: #DDBDBB;
     bottom: -2px;
     left: 0;
     -webkit-transition: width .5s ease-in-out;
@@ -460,11 +460,11 @@ img {
 }
 
 .alert_popup-close:focus,.alert_popup-close:hover {
-    color: #eb1616
+    color: #DDBDBB
 }
 
 .alert_popup-title {
-    color: #eb1616;
+    color: #DDBDBB;
     margin-bottom: 10px
 }
 
@@ -539,7 +539,7 @@ img {
 }
 
 .header_trigger.active .line {
-    background: #eb1616
+    background: #DDBDBB
 }
 
 .header_trigger.active .line:nth-child(2) {
@@ -593,7 +593,7 @@ img {
 }
 
 .header_nav-list .dropdown-toggle.active,.header_nav-list .nav-item.active {
-    background: #eb1616
+    background: #DDBDBB
 }
 
 .header_nav-list_item {
@@ -694,10 +694,11 @@ img {
     .header_nav-list .dropdown-toggle.active,.header_nav-list .dropdown-toggle:hover,.header_nav-list .nav-item.active,.header_nav-list .nav-item:hover {
         background: 0 0
     }
-
+    
     .header_nav-list .dropdown-toggle.active:before,.header_nav-list .dropdown-toggle:hover:before,.header_nav-list .nav-item.active:before,.header_nav-list .nav-item:hover:before {
-        background: #eb1616
+        background: #DDBDBB
     }
+
 
     .header_nav-list_item {
         margin-right: 30px
