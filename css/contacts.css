@@ -792,7 +792,7 @@ img {
 
 .contacts_main-form .field {
     width: 100%;
-    color: #fff
+    color: #000000
 }
 
 .contacts_main-form .field[data-type=message] {
