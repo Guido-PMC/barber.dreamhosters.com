@@ -315,7 +315,7 @@ img {
 }
 
 .field:focus,.field:hover {
-    border-color: #fff
+    border-color: #000000
 }
 
 .highlight {
