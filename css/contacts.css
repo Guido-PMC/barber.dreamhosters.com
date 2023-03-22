@@ -956,7 +956,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"] {
 }
 
 .footer_contacts-socials .list-item .link {
-    color: #fff;
+    color: #000000;
     font-size: 22px
 }
 
@@ -977,7 +977,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"] {
 }
 
 .footer_newsletter-form .field:focus,.footer_newsletter-form .field:hover {
-    border-color: #fff
+    border-color: #000000
 }
 
 .footer_newsletter-form .btn,.footer_newsletter-form .field {
