@@ -894,7 +894,7 @@ a[href^="http://maps.google.com/maps"],a[href^="https://maps.google.com/maps"] {
 }
 
 .footer_contacts-tel {
-    color: #fff;
+    color: #000000;
     margin-bottom: 10px;
     width: -webkit-fit-content;
     width: -moz-fit-content;
