@@ -232,7 +232,7 @@ img {
 
 .theme-element.btn--revert.current,.theme-element.btn--revert:focus,.theme-element.btn--revert:hover {
     background: #DDBDBB;
-    color: #fff
+    color: #000000
 }
 
 .theme-element.tag {
@@ -520,7 +520,7 @@ img {
 .header_trigger .line {
     height: 2px;
     width: 100%;
-    background: #fff;
+    background: #000000;
     display: block;
     -webkit-transition: .3s ease-in-out;
     -o-transition: .3s ease-in-out;
