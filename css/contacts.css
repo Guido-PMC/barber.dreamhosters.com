@@ -264,7 +264,7 @@ img {
 }
 
 .field::-webkit-input-placeholder {
-    color: #000000;
+    color: #fff;
     -webkit-transition: opacity .3s ease-in-out;
     transition: opacity .3s ease-in-out
 }
