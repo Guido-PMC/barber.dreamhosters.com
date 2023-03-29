@@ -124,7 +124,7 @@ main {
 }
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: Oswald,sans-serif;
+    font-family: freight-big-pro;
     font-weight: 500;
     text-transform: uppercase;
     color: #000000
@@ -191,7 +191,7 @@ img {
 
 .section_header-subtitle {
     text-transform: uppercase;
-    font-family: Oswald,sans-serif;
+    font-family: FreightBigProBlack,sans-serif;
     font-weight: 600;
     color: #c8c8c8;
     font-size: 80px;
@@ -219,7 +219,7 @@ img {
     line-height: 22px;
     display: inline-block
 }
-
+;src:url(https://use.typekit.net/af/a91824/000000000000000077359f9d/30/l?subset_id=2&fvd=n4&v=3) 
 
 .theme-element.btn {
     padding: 12px 20px
@@ -365,7 +365,7 @@ img {
 .brand-logo_name {
     color: #000000;
     text-transform: uppercase;
-    font-family: Oswald,sans-serif;
+    font-family: freight-big-pro;
     font-weight: 500;
     font-size: 28px;
     line-height: 1
@@ -598,7 +598,7 @@ img {
 }
 
 .header_nav-list_item {
-    font-family: Oswald,sans-serif;
+    font-family: freight-big-pro;
     font-weight: 500;
     font-size: 16px;
     text-transform: uppercase;
@@ -816,7 +816,7 @@ img {
     text-transform: uppercase;
     font-size: 28px;
     line-height: 1.5;
-    font-family: Oswald,sans-serif;
+    font-family: freight-big-pro;
     font-weight: 500
 }
 
@@ -1117,7 +1117,7 @@ img {
 }
 
 .schedule_hours-list_group .list-item .weekday {
-    font-family: Oswald,sans-serif;
+    font-family: freight-big-pro;
     font-weight: 500;
     font-size: 18px;
     line-height: 1.7;
@@ -1247,7 +1247,7 @@ img {
     font-size: 24px;
     line-height: 1.5;
     text-transform: uppercase;
-    font-family: Oswald,sans-serif;
+    font-family: freight-big-pro;
     font-weight: 500;
     color: #000000;
     margin-bottom: 10px
@@ -1327,7 +1327,7 @@ img {
     text-transform: uppercase;
     font-size: 18px;
     line-height: 1.5;
-    font-family: Oswald,sans-serif;
+    font-family: freight-big-pro;
     font-weight: 500
 }
 
