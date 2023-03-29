@@ -213,12 +213,13 @@ img {
     color: #000000;
     text-transform: uppercase;
     border: 2px solid #DDBDBB;
-    font-family: Oswald,sans-serif;
+    font-family: freight-big-pro;
     font-weight: 500;
     font-size: 14px;
     line-height: 22px;
     display: inline-block
 }
+
 
 .theme-element.btn {
     padding: 12px 20px
